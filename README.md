@@ -1,2 +1,2 @@
 # Storage
-Como funciona? basicamente faço upload de imagens aqui e copio o link delad e uso onde quiser
+Como funciona? basicamente faço upload de imagens aqui e copio o link delas e uso onde quiser
